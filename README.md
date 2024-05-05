@@ -12,3 +12,5 @@ The data preparation process began by sourcing the original dataset from [Kaggle
 
 **Future Work**
 While the current iteration of the application remains functional, there are opportunities for future enhancements. With the availability of data for subsequent years, such as 2024, there is potential to revisit the analysis and visualization to assess if similar insights persist or if there have been significant shifts in the UFC "meta." Continual refinement and adaptation of the project will ensure its relevance and utility in providing valuable insights to UFC enthusiasts.
+
+![UFC Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png "UFC Logo")
